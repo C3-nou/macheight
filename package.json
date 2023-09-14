@@ -1,0 +1,15 @@
+{
+  "name": "macheight",
+  "version": "1.0.0",
+  "description": "find the target sum in a list of numbers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npx jest"
+  },
+  "author": "ccadavid",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
